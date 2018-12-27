@@ -1,0 +1,6 @@
+O = "O"
+B = "B-CHEM"
+I = "I-CHEM"
+PAD = "<PAD>"
+UNK = "<UNK>"
+ZERO = "<ZERO>"
